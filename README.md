@@ -23,10 +23,10 @@ This repo contains:
 test successfully passed 
 
 ## statistical results of the data 
-# 1. general outlook of the data from head
+### 1. general outlook of the data from head
 <img width="699" alt="Screenshot 2023-09-10 at 18 29 27" src="https://github.com/nogibjj/mini_project_2/assets/141781876/34311d34-da55-4744-89e1-2f94036c1779">
 
-# 2. statistical summary
+### 2. statistical summary
 <img width="1038" alt="Screenshot 2023-09-10 at 18 29 03" src="https://github.com/nogibjj/mini_project_2/assets/141781876/9fe61268-e137-465c-b2f8-242b8a09a1a4">
 
 
