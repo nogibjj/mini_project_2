@@ -17,7 +17,6 @@ The purpose of this project is using the `Pandas` to show statistics description
 
 ## Check format and test errors
 
-![Screenshot 2023-09-09 at 9 08 40 PM](https://github.com/nogibjj/TianjiRao_Pandas_Desc_Stat_Script/assets/104114843/548859ff-0bb7-4d31-ae35-8db050f10378)
 
 test successfully passed 
 
