@@ -16,7 +16,7 @@ This repo contains:
 The purpose of this project is using the `Pandas` to show statistics descriptions. The author use a `pd.DataFrame` as a sample data and test its descriptions using the function `desc_df()`. The visualization focus on the bar plot, using `bar_plot()`. Both functions are tested in test_main.py.
 
 ## Check format and test errors
-
+![Alt text](/Users/zhangbobby/Desktop/Screenshot 2023-09-10 at 12.43.15 "Optional title")
 
 test successfully passed 
 
