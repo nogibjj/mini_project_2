@@ -1,4 +1,4 @@
-![CI](https://github.com/nogibjj/TianjiRao_Pandas_Desc_Stat_Script/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/nogibjj/mini_project_2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mini_project_2/actions/workflows/cicd.yml)
 
 ## mini project 2: Pandas Descriptive Statistics 
 
