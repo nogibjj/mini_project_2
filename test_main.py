@@ -68,4 +68,3 @@ def test_pd_descriptive():
 
 if __name__ == "__main__":
     test_pd_descriptive()
-    print("All test cases successfully passed")
