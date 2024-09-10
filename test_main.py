@@ -14,10 +14,6 @@ def test_pd_descriptive():
     print("this code reads csv data from: ", file)
 
     data_summary = desripStats(file)
-    print("==" * 30)
-    print("descriptive statistic summary of the data is given as:")
-    print(data_summary)
-    print("==" * 30)
 
     # data = pd.read_csv(file)["mpg"]
 
